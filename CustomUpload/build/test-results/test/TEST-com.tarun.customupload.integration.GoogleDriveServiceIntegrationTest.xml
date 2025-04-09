@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tarun.customupload.integration.GoogleDriveServiceIntegrationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-04-08T13:55:50.904Z" hostname="Mac.lan" time="0.038">
+  <properties/>
+  <testcase name="testListFilesIntegration()" classname="com.tarun.customupload.integration.GoogleDriveServiceIntegrationTest" time="0.012"/>
+  <testcase name="testDeleteFileIntegration()" classname="com.tarun.customupload.integration.GoogleDriveServiceIntegrationTest" time="0.008"/>
+  <testcase name="testDownloadFileIntegration()" classname="com.tarun.customupload.integration.GoogleDriveServiceIntegrationTest" time="0.006"/>
+  <testcase name="testUploadFileIntegration()" classname="com.tarun.customupload.integration.GoogleDriveServiceIntegrationTest" time="0.006"/>
+  <system-out><![CDATA[2025-04-08T09:55:50.901-04:00  INFO 77276 --- [CustomUpload] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.tarun.customupload.integration.GoogleDriveServiceIntegrationTest]: GoogleDriveServiceIntegrationTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-04-08T09:55:50.908-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2025-04-08T09:55:50.908-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-04-08T09:55:50.909-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2025-04-08T09:55:50.922-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2025-04-08T09:55:50.922-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-04-08T09:55:50.923-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2025-04-08T09:55:50.931-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2025-04-08T09:55:50.931-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-04-08T09:55:50.931-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2025-04-08T09:55:50.940-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2025-04-08T09:55:50.940-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-04-08T09:55:50.940-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

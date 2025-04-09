@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tarun.customupload.service.GoogleDriveServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-04-08T13:55:50.944Z" hostname="Mac.lan" time="0.302">
+  <properties/>
+  <testcase name="testUploadFile()" classname="com.tarun.customupload.service.GoogleDriveServiceTest" time="0.221"/>
+  <testcase name="testListFiles()" classname="com.tarun.customupload.service.GoogleDriveServiceTest" time="0.031"/>
+  <testcase name="testDeleteFile()" classname="com.tarun.customupload.service.GoogleDriveServiceTest" time="0.022"/>
+  <testcase name="testDownloadFile()" classname="com.tarun.customupload.service.GoogleDriveServiceTest" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

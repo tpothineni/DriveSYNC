@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tarun.customupload.controller.AuthControllerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-04-08T13:55:50.675Z" hostname="Mac.lan" time="0.058">
+  <properties/>
+  <testcase name="testHome()" classname="com.tarun.customupload.controller.AuthControllerTest" time="0.029"/>
+  <testcase name="testGetUserDetails()" classname="com.tarun.customupload.controller.AuthControllerTest" time="0.029"/>
+  <system-out><![CDATA[2025-04-08T09:55:50.672-04:00  INFO 77276 --- [CustomUpload] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.tarun.customupload.controller.AuthControllerTest]: AuthControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-04-08T09:55:50.682-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2025-04-08T09:55:50.682-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-04-08T09:55:50.683-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2025-04-08T09:55:50.706-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.mock.web.MockServletContext          : Initializing Spring TestDispatcherServlet ''
+2025-04-08T09:55:50.707-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-04-08T09:55:50.707-04:00  INFO 77276 --- [CustomUpload] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
